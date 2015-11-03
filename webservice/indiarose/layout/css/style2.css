@@ -1,0 +1,43 @@
+input
+{
+width:120px;
+height:20px;
+border-radius:5px;
+}
+
+label
+{
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:10px;
+}
+
+label.choix
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	color:#0000FF;
+	font-weight:bolder;
+	font-style:italic;
+}
+
+a.lien
+{
+	color:#FFF;
+}
+	
+img
+{
+	width:120px;
+	height:120px;
+}
+
+table.admin
+{
+	/* border:solid; */
+	padding-top:140px;
+	padding-left:60px;
+}
+
+span.rouge
+{
+	color:#FF3333;
+}

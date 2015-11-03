@@ -1,0 +1,97 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1031" measuredH="451" mockupW="625" mockupH="443">
+  <controls>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::MenuBar" x="409" y="87" w="622" h="29" measuredW="630" measuredH="29" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%2C%20Nos%20Fournisseurs%2C%20Liens%20Utiles%2C%20A%20propos%20IndiaRose%2C%20Notre%20%E9quipe%2C%20Nous%20Contacter</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::TextArea" x="409" y="122" w="164" h="105" measuredW="200" measuredH="140" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::TextArea" x="588" y="122" w="443" h="263" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>India%20Rose.%20C%27est%20le%20pr%E9nom%20de%20la%20petite%20fille%20autiste%20rencontr%E9e%20en%202011%20par%20Jos%E9%20Martins%2C%20%E9tudiant%20en%20informatique.%20Pour%20se%20faire%20comprendre%2C%20elle%20montrait%20du%20doigt%20des%20images%20r%E9pertori%E9es%20dans%20un%20classeur%2C%20une%20technique%20tr%E8s%20utilis%E9e%20par%20les%20enfants%20autistes.%20En%20l%27observant%2C%20le%20jeune%20Orl%E9anais%20s%27est%20rendu%20compte%20qu%27elle%20utilisait%20tr%E8s%20facilement%20une%20tablette%20num%E9rique.%20L%27informaticien%20a%20alors%20eu%20une%20id%E9e%3A%20rassembler%20le%20classeur%20et%20la%20tablette%20dans%20un%20m%EAme%20outil.%0A.............%20%28ect%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::TextInput" x="479" y="131" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::TextInput" x="479" y="164" w="-1" h="-1" measuredW="79" measuredH="26" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Title" x="415" y="138" w="60" h="-1" measuredW="47" measuredH="13" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Utilisateur</text>
+      </controlProperties>
+    </control>
+    <control controlID="21" controlTypeID="com.balsamiq.mockups::Title" x="406" y="171" w="79" h="-1" measuredW="63" measuredH="13" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Mot%20de%20passe</text>
+      </controlProperties>
+    </control>
+    <control controlID="23" controlTypeID="com.balsamiq.mockups::TextArea" x="406" y="400" w="625" h="51" measuredW="200" measuredH="140" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Paragraph" x="445" y="410" w="567" h="16" measuredW="275" measuredH="80" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Accueil%20%7C%20Nos%20Fournisseurs%20%7C%20Lients%20Utiles%20%7C%20A%20propos%20IndiaRose%20%7C%20Notre%20Equipe%20%7C%20Nous%20Contacter</text>
+      </controlProperties>
+    </control>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Title" x="683" y="428" w="90" h="-1" measuredW="71" measuredH="13" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Copyright%202014</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::TextArea" x="409" y="235" w="164" h="76" measuredW="200" measuredH="140" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Title" x="438" y="247" w="106" h="-1" measuredW="82" measuredH="13" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>10</size>
+        <text>Suivez-Nous%20Sur%20%3A</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Link" x="479" y="199" w="-1" h="-1" measuredW="81" measuredH="19" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Se%20connecter</text>
+      </controlProperties>
+    </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Image" x="432" y="263" w="40" h="31" measuredW="225" measuredH="225" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../images/t%E9l%E9chargement.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Image" x="471" y="263" w="40" h="31" measuredW="300" measuredH="300" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../images/unnamed.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Image" x="511" y="263" w="40" h="31" measuredW="500" measuredH="500" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../images/v65oai7fxn47qv9nectx.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Image" x="409" y="8" w="622" h="70" measuredW="1920" measuredH="452" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../images/bg-header-index.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

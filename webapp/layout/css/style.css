@@ -1,0 +1,157 @@
+body
+{
+    width: 86%;
+    margin-left: auto; /* la page web sera centré grace au marge automatique */
+    margin-right: auto;
+    /* margin-top: 4px; */
+    font-family: Arial, "Times New Roman", Times, sans-serif;
+    /* background-color: #cdcdcd; */
+    background-color: rgba(201, 232, 227, 0.58);
+    /* background: url("layout/images/c.jpg") no-repeat; */
+}
+a
+{
+    color: rgba(112, 143, 159, 0.89);
+    text-decoration: none;
+}
+a:hover
+{
+    text-decoration: underline;
+}
+#img_header
+{
+    width: 342px;
+    height: 73px;
+    position: absolute;
+    top: 40px;
+    left: 120px;
+    background: url("../images/ir.png") no-repeat;
+}
+#header
+{
+    height: 140px;
+    /* width: 1160px; */
+    border: 1px solid #d6f7ff;
+    background-color: #96c4ff;
+    background: url("../images/ban.jpg");
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#content
+{
+    margin-left: 23%;
+    margin-top: 1px;
+    padding: 10px;
+    color: #E3AB57;
+    background-color: white;
+    text-align: justify;
+
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+h1
+{
+    text-indent: -5000px; /* alignement négatif pour ne pas afficher le texte dans h1, mais il reste inclu dans le code et connu par les moteurs de recherche, c'est ce qu'on appelle : Alinéa négatif */
+}
+#content
+{
+    color: black;
+}
+#content h2.stl
+{
+    color: #0099FF;
+    font-size: 15px;
+    text-align: left;
+}
+#content h2 /* Pour appliquer le même style à plusieurs élèment différent */
+        {
+    text-align: center;
+    color: #0099FF;
+}
+#footer
+{
+    clear: left; /* Pour stopper l'effet de menu */
+    margin-top: 5px;
+    padding: 5px;
+    text-align: center;
+    color: black;
+
+    height: 60px;
+    background-color: #ffffff;
+    background: url("../images/foot.jpg");
+
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+#contact
+{
+    float: left;
+    display: block;
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+    padding: 35px;
+    margin-left: 40px;
+    border: 1px solid #cbcbcb;
+    background-color: #FFF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+#cords
+{
+    display: block;
+    width: 200px;
+    height: 300px;
+    margin: 10px;
+    padding: 35px;
+    margin-left: 550px;
+    border: 1px solid #cbcbcb;
+    background-color: #FFF;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    margin-top: 25px;
+}
+#content h2.s
+{
+    font-size: medium;
+    font-weight: bold;
+    color: darkgrey;
+    text-align: justify;
+    margin-left: 50px;
+}
+textarea
+{
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border-bottom-left-radius: 4px;
+    background: #ccc;
+}
+textarea:focus
+{
+    background-color: white;
+}
+img.cs
+{
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 840px;
+}
+.pr
+{
+    text-align: left;
+    font-size: 12px;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+}
+span.obg
+{
+    color: red;
+}
